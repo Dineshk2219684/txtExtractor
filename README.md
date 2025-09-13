@@ -10,6 +10,14 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Dineshk2219684/txtExtractor)
 - 👆 Press the deploy button.
 
+
+## Deploy To Google Colab
+
+<a href="https://colab.research.google.com/github/SudoR2spr/text-leech-bot/blob/main/.github/AshutoshGoswami24" target="_blank">
+  <img src="https://ashutoshgoswami24.github.io/Me/img/gc.png" alt="Deploy To Google Colab" style="width:150px;"/>
+</a>
+
+
 - Go to  [my.telegram.org](https://my.telegram.org/)
      - And get your API ID
      - And API Hashes
