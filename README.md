@@ -13,7 +13,7 @@
 
 ## Deploy To Google Colab
 
-<a href="https://colab.research.google.com/github.com/cryptostark/All_In_One/tree/main/.github.com/Dineshk2219684" target="_blank">
+<a href="https://colab.research.google.com/github.com/cryptostark/All_In_One/blob/main/.github.com/Dineshk2219684" target="_blank">
   <img src="https://ashutoshgoswami24.github.io/Me/img/gc.png" alt="Deploy To Google Colab" style="width:150px;"/>
 </a>
 
