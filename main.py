@@ -57,7 +57,7 @@ if __name__ == "__main__" :
         api_hash=Config.API_HASH,
         sleep_threshold=20,
         plugins=plugins,
-        workers = 50
+        workers = 100
     )
     
     async def main():
